@@ -2,9 +2,9 @@
 
 <li>Caso o Cliente entre em contato solicitando alteração do e-mail ou numero de celular</li>
 
-- Atualização Cadastral
-- Atualização Telefone/ e-mail
-- Finalizar em Atendimento
+<br> - Atualização Cadastral </br>
+<br> - Atualização Telefone/ e-mail </br>
+<br> - Finalizar em Atendimento </br>
 
 <br> 1. Solicitamos ao cliente as informações necessarias fazendo a confirmação dos dados que ele deseja alterar (e-mail ou numero de celular). <br>
 
