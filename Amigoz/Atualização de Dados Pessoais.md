@@ -11,7 +11,6 @@
 <br>2. Após a informação passada devemos orientar o cliente a enviar um e-mail com sua documentação que comprove que as alterações são validas, caso contrario a alteração não pode ser feita</br>
 <br>3. Após o cliente enviar, devemos solicitar que ele aguarde um prazo de 24 horas que as alterações seriam realizadas</br>
 
-/**
 
 **Script**
 <li>Certo vou realizar a alteraçaão dos dados no sistema, mas antes preciso que você envie no e-mail atendimento@amigoz.com.br, a sua documentação (RG, CNH...) 
