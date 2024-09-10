@@ -8,23 +8,5 @@
 
 **Abaixo segue os links de alguns sistemas para facilitar a nossa busca por informações.**
 
-<li>Happy Backoffice</li>
-https://backoffice.happyconsig.com.br/admin/login/?next=/admin/
+<li><link>[Happy Backoffice]https://backoffice.happyconsig.com.br/admin/login/?next=/admin/<link></li>
 
-<li><link>https://happyconsig.com.br/login<link>Happy Consig</li>
-
-
-<li>Conductor</li>
-https://10.0.21.36:8002/PortalCDT/(S(wdboet55lvh2ve452pkm1ufa))/Pages/Login/Login.aspx
-
-<li>Siclo</li>
-https://www.distribuicaoalfa.com.br/sistemas/index.php
-
-<li>Amigoz Consig</li>
-https://amigozconsig.com.br/login
-
-<li>Chat GPT</li>
-https://chatgpt.com/
-
-<li>Generali Seguros</li>
-https://certificados.generali.com.br/amigozpine 
