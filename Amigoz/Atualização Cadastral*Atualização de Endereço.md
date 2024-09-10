@@ -16,7 +16,7 @@
 
 <br>1. Verificar o rastreio e endereço no [Siclo](https://www.distribuicaoalfa.com.br/sistemas/index.php) caso seja necessario alterar o endereço nesses casos, abrimos uma acareação também pelo [Siclo](https://www.distribuicaoalfa.com.br/sistemas/index.php)</br>
 <br>2. Adicionamos todo o endereço corretamente na acareação do Siclo e depois realizamos a alteração do endereço no Intergrall e no Conductor</br>
-<br>3. Lembrando que também nesses casos se o cliente for alterar CEP, Cidade ou Estado, devemos utilizar a Árvoré</br>
+<br>3. Lembrando que também nesses casos se o cliente for alterar CEP, Cidade ou Estado, devemos utilizar a Árvore</br>
 
 **Script**
 1. Preciso que me informe o seu endereço completo, para que eu possa realizar a alteração no sistema, ok?
