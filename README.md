@@ -4,7 +4,8 @@
 
 <li>Esse é um script pratico para facilitar a leitura e o repasse de informações em nossa equipe.</li>
 
-**Abaixo segue os links de alguns sistemas para facilitar a nossa busca por informações.**
+
+||**Abaixo segue os links de alguns sistemas para facilitar a nossa busca por informações.**
 
 <li>Happy Backoffice</li>
 https://backoffice.happyconsig.com.br/admin/login/?next=/admin/
@@ -25,4 +26,4 @@ https://amigozconsig.com.br/login
 https://chatgpt.com/
 
 <li>Generali Seguros</li>
-https://certificados.generali.com.br/amigozpine
+https://certificados.generali.com.br/amigozpine ||
