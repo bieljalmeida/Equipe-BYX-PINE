@@ -19,6 +19,6 @@
 <br>3. Lembrando que também nesses casos se o cliente for alterar CEP, Cidade ou Estado, devemos utilizar a Árvoré</br>
 
 **Script**
-<li>1. Preciso que me informe o seu endereço completo, para que eu possa realizar a alteração no sistema, ok?</li>
-<li>2. Olha verifiquei aqui no rastreio do seu cartão que ele já está com a transportadora (Ou qualquer que seja o status que devemos informar ao cliente) porém verifiquei que o seu endereço está incorreto. 
-Nesse caso será necessario abrir uma reprogramação para que a transportadora esteja ciente e não ocorra nenhum erro na entrega, ok? Me confirma por favor o seu endereço correto?</li>
+1. Preciso que me informe o seu endereço completo, para que eu possa realizar a alteração no sistema, ok?
+2. Olha verifiquei aqui no rastreio do seu cartão que ele já está com a transportadora (Ou qualquer que seja o status que devemos informar ao cliente) porém verifiquei que o seu endereço está incorreto. 
+Nesse caso será necessario abrir uma reprogramação para que a transportadora esteja ciente e não ocorra nenhum erro na entrega, ok? Me confirma por favor o seu endereço correto?
