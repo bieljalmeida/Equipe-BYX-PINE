@@ -10,3 +10,13 @@
 
 [Happy](https://backoffice.happyconsig.com.br/admin/login/?next=/admin/)
 
+[Happy Consig
+](https://happyconsig.com.br/login)
+
+[Conductor](https://10.0.21.36:8002/PortalCDT/(S(r5m3za45tpm2z345ias2i2in))/Pages/Login/Login.aspx)
+
+[Amigoz Consig
+](https://amigozconsig.com.br/login)
+
+[Generali Seguro
+](https://certificados.generali.com.br/amigozpine)
