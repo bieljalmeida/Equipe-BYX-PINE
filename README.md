@@ -20,3 +20,5 @@
 
 [Generali Seguro
 ](https://certificados.generali.com.br/amigozpine)
+
+[ChatGpt](https://chatgpt.com/)
